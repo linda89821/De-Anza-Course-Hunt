@@ -1,0 +1,55 @@
+00428 64Z Computers and the Internet in Society;TBA-TBA;Karina Dundurs	
+00429 01Y Business Information Systems;TBA-TBA;Alexander Morgan Jr	
+41271 64Z Business Information Systems;TBA-TBA;Spera Georgiou	
+43045 65Z Business Information Systems;TBA-TBA;Karina Dundurs	
+43676 65Z Computer Literacy;TBA-TBA;Mark Sherby	
+46572 64Y Swift Programming;06:00 PM-07:50 PM;Manish Goel	
+42536 64Z Visual Basic .NET Programming I;TBA-TBA;Arthur Linn Jr	
+00436 61Y Introduction to Unix/Linux;06:00 PM-07:50 PM;Lalitha Krishnamurt	
+00435 64Z Introduction to Unix/Linux;TBA-TBA;Maryann May-Pumphrey	
+41976 01Y Introduction to x86 Pressor Assembly Language and Computer Architecture;09:30 AM-11:20 AM;Abeer Alameer	
+45155 02Y Introduction to x86 Pressor Assembly Language and Computer Architecture;01:30 PM-03:20 PM;Kamran Eftekhari	
+46057 64Z Introduction to x86 Pressor Assembly Language and Computer Architecture;TBA-TBA;Clare Nguyen	
+42524 01Y Beginning Programming Methodogies in C++;03:30 PM-05:20 PM;LAU, YAU	
+42525 02Y Beginning Programming Methodogies in C++;11:30 AM-01:20 PM;Delia Garbacea	
+42526 03Y Beginning Programming Methodogies in C++;TBA-TBA;Hann So	
+46749 04Y Beginning Programming Methodogies in C++;03:30 PM-05:20 PM;Seema Gupta	
+42520 01Y Intermediate Programming Methodogies in C++;11:30 AM-01:20 PM;Delia Garbacea	
+42521 02Y Intermediate Programming Methodogies in C++;11:30 AM-01:20 PM;Joe Bentley	
+42522 03Y Intermediate Programming Methodogies in C++;03:30 PM-05:20 PM;Manish Goel	
+43042 04Y Intermediate Programming Methodogies in C++;09:30 AM-11:20 AM;Abeer Alameer	
+46903 01Y Intermediate Programming Methodogies in C++ - HONORS;11:30 AM-01:20 PM;Delia Garbacea	
+44159 01Y Data Abstraction and Structures;03:30 PM-05:20 PM;Manish Goel	
+43275 03Y Data Abstraction and Structures;01:30 PM-03:20 PM;Delia Garbacea	
+46904 03Y Data Abstraction and Structures - HONORS;01:30 PM-03:20 PM;Delia Garbacea	
+42094 61Y Advanced C++ Programming;06:00 PM-07:50 PM;Joe Bentley	
+44373 01Y Java Programming;01:30 PM-03:20 PM;Linyun Yu	
+00440 61Y Java Programming;06:00 PM-07:50 PM;Felix Amoruwa	
+00441 64Z Java Programming;TBA-TBA;Sukhjit Singh	
+00443 63Y Advanced Java Programming;08:00 PM-09:50 PM;Sukhjit Singh	
+43651 02Y Introduction to Computer Programming Using Java;09:30 AM-11:20 AM;Jennifer Parrish	
+43317 61Y Introduction to Computer Programming Using Java;06:00 PM-07:50 PM;Ron Bates	
+43840 01Y Intermediate Problem Sving in Java;09:30 AM-11:20 AM;Jennifer Parrish	
+47004 02Z Intermediate Problem Sving in Java;TBA-TBA;Jennifer Parrish	
+44500 01Y Introduction to Programming in Python;11:30 AM-01:20 PM;Abeer Alameer	
+44673 02Y Introduction to Programming in Python;03:30 PM-05:20 PM;Ira dham	
+46054 02Y Python Programming;09:30 AM-11:20 AM;Clare Nguyen	
+46055 01Y Advanced Python Programming;11:30 AM-01:20 PM;Clare Nguyen	
+46944 64Z Advanced Python Programming;06:00 PM-07:50 PM;Grant Larkin	
+46996 65Z Advanced Python Programming;TBA-TBA;Grant Larkin	
+43311 61Y Java for Mobile Development;06:00 PM-07:50 PM;Tuan Nguyen	
+43306 64Z Network Security;TBA-TBA;Mark Sherby	
+44162 64Z Database Management Systems;TBA-TBA;Tuan Nguyen	
+44661 64Z Introduction to SQL;TBA-TBA;Sukhjit Singh	
+45469 64Z Introduction to Big Data and Analytics;TBA-TBA;Rick Hubbard	
+43321 64Z Introduction to Data Communication and Networking;TBA-TBA;Spera Georgiou	
+42103 64Z Web Page Development;TBA-TBA;Valerie Taylor	
+46570 55L Project Management - A Practicum;08:30 AM-06:20 PM;Sukhjit Singh	
+46694 55F Project Planning and Contr - A Practicum;04:00 PM-07:50 PM;Sukhjit Singh	
+46695 55F Risk Assessment and Mitigation - A Practicum;03:30 PM-07:40 PM;Sukhjit Singh	
+42533 64Z Digital Image Editing Software (Photoshop);TBA-TBA;Patricia Hmes	
+42532 64Z Office Software Applications;TBA-TBA;Arthur Linn Jr	
+43529 61Z Ethical Hacking;TBA-TBA;Len Fisk	
+44662 64Z Digital Forensics and Hacking Investigation;TBA-TBA;Felix Amoruwa	
+00454 64Z Personal Computer Security Basics;TBA-TBA;Mark Sherby	
+00464 61Y Windows Administration;06:00 PM-07:50 PM;RUEDA, JOSE	

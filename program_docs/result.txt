@@ -1,0 +1,56 @@
+42094 61Y Advanced C++ Programming;06:00 PM-07:50 PM;Joe Bentley	
+00443 63Y Advanced Java Programming;08:00 PM-09:50 PM;Sukhjit Singh	
+46055 01Y Advanced Python Programming;11:30 AM-01:20 PM;Clare Nguyen	
+46944 64Z Advanced Python Programming;06:00 PM-07:50 PM;Grant Larkin	
+46996 65Z Advanced Python Programming;TBA-TBA;Grant Larkin	
+42524 01Y Beginning Programming Methodogies In C++;03:30 PM-05:20 PM;LAU, YAU	
+42525 02Y Beginning Programming Methodogies In C++;11:30 AM-01:20 PM;Delia Garbacea	
+42526 03Y Beginning Programming Methodogies In C++;TBA-TBA;Hann So	
+46749 04Y Beginning Programming Methodogies In C++;03:30 PM-05:20 PM;Seema Gupta	
+00429 01Y Business Information Systems;TBA-TBA;Alexander Morgan Jr	
+41271 64Z Business Information Systems;TBA-TBA;Spera Georgiou	
+43045 65Z Business Information Systems;TBA-TBA;Karina Dundurs	
+43676 65Z Computer Literacy;TBA-TBA;Mark Sherby	
+00428 64Z Computers And The Internet In Society;TBA-TBA;Karina Dundurs	
+44159 01Y Data Abstraction And Structures;03:30 PM-05:20 PM;Manish Goel	
+43275 03Y Data Abstraction And Structures;01:30 PM-03:20 PM;Delia Garbacea	
+46904 03Y Data Abstraction And Structures - HONORS;01:30 PM-03:20 PM;Delia Garbacea	
+44162 64Z Database Management Systems;TBA-TBA;Tuan Nguyen	
+44662 64Z Digital Forensics And Hacking Investigation;TBA-TBA;Felix Amoruwa	
+42533 64Z Digital Image Editing Software (Photoshop);TBA-TBA;Patricia Hmes	
+43529 61Z Ethical Hacking;TBA-TBA;Len Fisk	
+43840 01Y Intermediate Problem Sving In Java;09:30 AM-11:20 AM;Jennifer Parrish	
+47004 02Z Intermediate Problem Sving In Java;TBA-TBA;Jennifer Parrish	
+42520 01Y Intermediate Programming Methodogies In C++;11:30 AM-01:20 PM;Delia Garbacea	
+42521 02Y Intermediate Programming Methodogies In C++;11:30 AM-01:20 PM;Joe Bentley	
+42522 03Y Intermediate Programming Methodogies In C++;03:30 PM-05:20 PM;Manish Goel	
+43042 04Y Intermediate Programming Methodogies In C++;09:30 AM-11:20 AM;Abeer Alameer	
+46903 01Y Intermediate Programming Methodogies In C++ - HONORS;11:30 AM-01:20 PM;Delia Garbacea	
+45469 64Z Introduction To Big Data And Analytics;TBA-TBA;Rick Hubbard	
+43651 02Y Introduction To Computer Programming Using Java;09:30 AM-11:20 AM;Jennifer Parrish	
+43317 61Y Introduction To Computer Programming Using Java;06:00 PM-07:50 PM;Ron Bates	
+43321 64Z Introduction To Data Communication And Networking;TBA-TBA;Spera Georgiou	
+44500 01Y Introduction To Programming In Python;11:30 AM-01:20 PM;Abeer Alameer	
+44673 02Y Introduction To Programming In Python;03:30 PM-05:20 PM;Ira dham	
+44661 64Z Introduction To SQL;TBA-TBA;Sukhjit Singh	
+00436 61Y Introduction To Unix/Linux;06:00 PM-07:50 PM;Lalitha Krishnamurt	
+00435 64Z Introduction To Unix/Linux;TBA-TBA;Maryann May-Pumphrey	
+41976 01Y Introduction To X86 Pressor Assembly Language And Computer Architecture;09:30 AM-11:20 AM;Abeer Alameer	
+45155 02Y Introduction To X86 Pressor Assembly Language And Computer Architecture;01:30 PM-03:20 PM;Kamran Eftekhari	
+46057 64Z Introduction To X86 Pressor Assembly Language And Computer Architecture;TBA-TBA;Clare Nguyen	
+43311 61Y Java For Mobile Development;06:00 PM-07:50 PM;Tuan Nguyen	
+44373 01Y Java Programming;01:30 PM-03:20 PM;Linyun Yu	
+00440 61Y Java Programming;06:00 PM-07:50 PM;Felix Amoruwa	
+00441 64Z Java Programming;TBA-TBA;Sukhjit Singh	
+43306 64Z Network Security;TBA-TBA;Mark Sherby	
+42532 64Z Office Software Applications;TBA-TBA;Arthur Linn Jr	
+12345 35z OvO Default Test Course QAQ;TBA-TBA;No Professor=A= 
+00454 64Z Personal Computer Security Basics;TBA-TBA;Mark Sherby	
+46570 55L Project Management - A Practicum;08:30 AM-06:20 PM;Sukhjit Singh	
+46694 55F Project Planning And Contr - A Practicum;04:00 PM-07:50 PM;Sukhjit Singh	
+46054 02Y Python Programming;09:30 AM-11:20 AM;Clare Nguyen	
+46695 55F Risk Assessment And Mitigation - A Practicum;03:30 PM-07:40 PM;Sukhjit Singh	
+46572 64Y Swift Programming;06:00 PM-07:50 PM;Manish Goel	
+42536 64Z Visual Basic .NET Programming I;TBA-TBA;Arthur Linn Jr	
+42103 64Z Web Page Development;TBA-TBA;Valerie Taylor	
+00464 61Y Windows Administration;06:00 PM-07:50 PM;RUEDA, JOSE	
